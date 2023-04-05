@@ -1,5 +1,5 @@
 ---
-title: "Profilku"
+title: "Profil"
 subtitle: "Let me speak about me"
 description: "Descrizione da rivedere se è un doppione subtitle"
 date: 2022-04-26T21:28:23+02:00
@@ -8,8 +8,8 @@ draft: false
 
 type: "about"
 
-author: Vincenzo Antedoro
-avatar: "me.webp"
+author: Nurdiana Malahayati
+avatar: "malay.jpg"
 website: "https://antedoro.it"
 twitter: "https://twitter.com/antedoro"
 github: "https://github.com/antedoro"
