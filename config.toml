@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blog Malay'
 theme = "arberia"
 
 # To list the most relevant pages on the front page or similar,
